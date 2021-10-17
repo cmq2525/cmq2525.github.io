@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "cmq2525.github.io"
 # [en, zh-cn, fr, pl, ...] determines default content language
 # [en, zh-cn, fr, pl, ...] 设置默认的语言
 defaultContentLanguage = "en"
@@ -11,7 +11,7 @@ theme = "LoveIt"
 
 # website title
 # 网站标题
-title = "LoveIt"
+title = "cmq2525的博客"
 
 # whether to use robots.txt
 # 是否使用 robots.txt
