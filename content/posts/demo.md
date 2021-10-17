@@ -2,6 +2,8 @@
 title: "Demo"
 date: 2021-10-17T12:38:50+08:00
 draft: false
+tags: ["NFS"]
+categories: ["Install", "documentation"]
 ---
 参考：
 1.[Ubuntu 16.04系统上NFS的安装与使用](https://blog.csdn.net/CSDN_duomaomao/article/details/77822883)
